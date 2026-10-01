@@ -75,7 +75,7 @@ The project includes SQL queries for:
 
 - `dataset.xlsx.csv` – OLA booking dataset
 - `ola_dashboard.pbix.pbix` – Power BI dashboard
-- `sql_queries .sql` – SQL analysis queries
+- `sql_queries.sql` – SQL analysis queries
 - Dashboard screenshots – Power BI dashboard pages
 
 ## Dashboard Pages
